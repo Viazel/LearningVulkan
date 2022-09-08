@@ -361,3 +361,13 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+bin/
+bin-int/
+Hazel.sln
+Hazel/Hazel.vcxproj
+Hazel/Hazel.vcxproj.filters
+Hazel/Hazel.vcxproj.user
+Sandbox/Sandbox.vcxproj
+Sandbox/Sandbox.vcxproj.filters
+Sandbox/Sandbox.vcxproj.user
